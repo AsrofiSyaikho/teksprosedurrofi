@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", Helvetica;
+}
+header {
+    background-color: #181812;
+    padding: 2%;
+}
+
+
